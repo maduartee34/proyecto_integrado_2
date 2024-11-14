@@ -1,0 +1,101 @@
+Apellido y Nombre,Nro_DNI,Materia Escolar,Nota 1er Trimestre,Nota 2do Trimestre,Nota 3er Trimestre,Faltas a clases
+Jose Romero,49975804.0,Lengua y Literatura,9.0,7.0,9.0,13.0
+Carolina Sanchez,89671056.0,Inglés,10.0,9.0,2.0,18.0
+Maria Perez,65993358.0,Ciencias Sociales,7.0,2.0,5.0,0.0
+Carolina Rodriguez,46853365.0,Matemáticas,6.0,2.0,5.0,19.0
+Diego Gomez,72786868.0,Inglés,1.0,10.0,8.0,12.0
+Jose Torres,61545580.0,Lengua y Literatura,1.0,4.0,2.0,5.0
+Carolina Perez,71387913.0,Inglés,3.0,8.0,2.0,12.0
+Sofia Romero,81700901.0,Ciencias Sociales,7.0,1.0,7.0,7.0
+Sofia Diaz,73722391.0,Química,7.0,4.0,1.0,18.0
+Diego Lopez,50660294.0,Inglés,4.0,1.0,1.0,12.0
+Laura Gonzalez,12665744.0,Ciencias Sociales,6.0,7.0,9.0,4.0
+Jose Gomez,68134194.0,Matemáticas,10.0,3.0,10.0,0.0
+Diego Torres,60159645.0,Ciencias Naturales,1.0,2.0,8.0,2.0
+Jose Torres,25031717.0,Ciencias Sociales,1.0,9.0,1.0,13.0
+Sofia Romero,42529042.0,Química,1.0,10.0,8.0,17.0
+Pedro Rodriguez,57103562.0,Física,5.0,6.0,3.0,9.0
+Pedro Rodriguez,97837951.0,Biología,8.0,3.0,10.0,19.0
+Juan Perez,88191709.0,Educación Física,4.0,10.0,4.0,8.0
+Carolina Diaz,35487063.0,Lengua y Literatura,3.0,7.0,4.0,12.0
+Juan Torres,90324305.0,Biología,8.0,7.0,10.0,4.0
+Juan Lopez,17652827.0,Física,2.0,10.0,4.0,9.0
+Juan Sanchez,32053263.0,Ciencias Naturales,6.0,1.0,4.0,6.0
+Maria Gomez,52159715.0,Ciencias Sociales,1.0,7.0,1.0,10.0
+Carolina Romero,62832821.0,Historia,9.0,10.0,4.0,13.0
+Laura Rodriguez,55755369.0,Educación Física,6.0,2.0,9.0,2.0
+Carolina Perez,29540599.0,Ciencias Naturales,9.0,2.0,6.0,0.0
+Sofia Lopez,93332757.0,Matemáticas,5.0,3.0,8.0,2.0
+Maria Perez,24770188.0,Geografía,7.0,5.0,4.0,6.0
+Maria Perez,70827801.0,Ciencias Sociales,2.0,6.0,10.0,20.0
+Carolina Gomez,39071399.0,Biología,6.0,3.0,6.0,20.0
+Laura Gonzalez,57878642.0,Historia,9.0,5.0,3.0,15.0
+Carolina Lopez,96149188.0,Química,10.0,2.0,2.0,16.0
+Laura Rodriguez,46751392.0,Lengua y Literatura,6.0,3.0,10.0,0.0
+Jose Rodriguez,76613977.0,Química,8.0,7.0,3.0,6.0
+Luis Sanchez,47940060.0,Inglés,2.0,5.0,9.0,20.0
+Pedro Lopez,43226424.0,Matemáticas,10.0,6.0,8.0,17.0
+Jose Sanchez,49732210.0,Inglés,9.0,2.0,7.0,8.0
+Diego Torres,83280039.0,Ciencias Sociales,6.0,3.0,6.0,14.0
+Ana Romero,65745178.0,Física,2.0,6.0,6.0,12.0
+Diego Torres,37076514.0,Inglés,3.0,10.0,10.0,8.0
+Ana Lopez,96291555.0,Historia,10.0,4.0,3.0,11.0
+Sofia Perez,20494904.0,Ciencias Sociales,2.0,7.0,2.0,4.0
+Sofia Lopez,88394989.0,Lengua y Literatura,5.0,1.0,6.0,19.0
+Pedro Lopez,80078617.0,Historia,10.0,7.0,9.0,6.0
+Juan Rodriguez,62738461.0,Química,6.0,7.0,7.0,19.0
+Jose Perez,41280157.0,Ciencias Sociales,4.0,10.0,2.0,13.0
+Luis Gonzalez,52163259.0,Ciencias Naturales,4.0,3.0,8.0,17.0
+Diego Gonzalez,71861041.0,Ciencias Sociales,8.0,1.0,8.0,6.0
+Laura Romero,15796320.0,Lengua y Literatura,7.0,3.0,6.0,0.0
+Luis Diaz,17100025.0,Ciencias Sociales,2.0,3.0,6.0,4.0
+Jose Martinez,25814054.0,Ciencias Sociales,10.0,6.0,3.0,15.0
+Diego Romero,41204677.0,Historia,9.0,9.0,5.0,0.0
+Pedro Rodriguez,20062373.0,Historia,8.0,10.0,8.0,19.0
+Laura Lopez,25576545.0,Física,10.0,6.0,3.0,13.0
+Pedro Martinez,29346474.0,Biología,9.0,7.0,2.0,17.0
+Jose Lopez,58058665.0,Historia,6.0,4.0,10.0,18.0
+Pedro Romero,17377387.0,Historia,10.0,7.0,4.0,9.0
+Pedro Gomez,67350563.0,Ciencias Naturales,3.0,4.0,8.0,19.0
+Juan Torres,83025339.0,Historia,10.0,7.0,6.0,3.0
+Sofia Sanchez,46523526.0,Lengua y Literatura,9.0,7.0,7.0,4.0
+Diego Romero,51894139.0,Geografía,6.0,7.0,8.0,2.0
+Juan Rodriguez,90733653.0,Matemáticas,2.0,10.0,3.0,4.0
+Sofia Lopez,43591512.0,Química,6.0,9.0,6.0,0.0
+Diego Romero,13319472.0,Física,8.0,5.0,10.0,4.0
+Juan Perez,45306386.0,Matemáticas,4.0,4.0,1.0,13.0
+Pedro Martinez,45344715.0,Inglés,7.0,10.0,8.0,1.0
+Pedro Martinez,56190030.0,Física,2.0,1.0,6.0,16.0
+Luis Gomez,54015819.0,Inglés,4.0,1.0,9.0,5.0
+Pedro Perez,30271762.0,Ciencias Naturales,9.0,3.0,7.0,13.0
+Ana Torres,21091198.0,Historia,5.0,2.0,6.0,18.0
+Ana Rodriguez,34455745.0,Ciencias Sociales,10.0,1.0,2.0,1.0
+Maria Torres,70446544.0,Ciencias Sociales,3.0,6.0,4.0,6.0
+Ana Lopez,93714339.0,Historia,4.0,3.0,3.0,19.0
+Juan Perez,86957075.0,Física,2.0,1.0,10.0,4.0
+Laura Diaz,64592612.0,Ciencias Sociales,2.0,8.0,6.0,6.0
+Diego Gonzalez,31897785.0,Ciencias Sociales,10.0,8.0,5.0,5.0
+Maria Romero,19246956.0,Historia,5.0,4.0,4.0,9.0
+Maria Lopez,34466979.0,Inglés,9.0,7.0,9.0,15.0
+Carolina Romero,88008715.0,Geografía,9.0,7.0,5.0,2.0
+Laura Torres,24760850.0,Biología,10.0,2.0,4.0,13.0
+Jose Perez,76290436.0,Lengua y Literatura,6.0,4.0,8.0,2.0
+Laura Gomez,58299886.0,Geografía,8.0,3.0,4.0,10.0
+Luis Sanchez,26405028.0,Ciencias Sociales,3.0,5.0,9.0,9.0
+Maria Perez,69048680.0,Ciencias Naturales,4.0,3.0,9.0,11.0
+Maria Perez,65994574.0,Geografía,6.0,1.0,1.0,12.0
+Sofia Martinez,73289068.0,Inglés,4.0,8.0,2.0,16.0
+Jose Sanchez,73617662.0,Educación Física,6.0,9.0,1.0,5.0
+Juan Perez,44562006.0,Lengua y Literatura,6.0,10.0,1.0,6.0
+Ana Perez,18438208.0,Ciencias Naturales,2.0,4.0,2.0,4.0
+Diego Gomez,45270301.0,Geografía,2.0,1.0,8.0,20.0
+Juan Diaz,96188167.0,Lengua y Literatura,6.0,6.0,9.0,14.0
+Sofia Perez,71880113.0,Biología,9.0,4.0,1.0,4.0
+Jose Martinez,86394256.0,Geografía,9.0,2.0,6.0,16.0
+Laura Romero,58604685.0,Química,7.0,5.0,2.0,0.0
+Juan Sanchez,76492791.0,Ciencias Naturales,9.0,4.0,2.0,6.0
+Carolina Rodriguez,43837465.0,Lengua y Literatura,2.0,3.0,4.0,13.0
+Sofia Rodriguez,26344425.0,Biología,10.0,3.0,4.0,5.0
+Jose Sanchez,70630973.0,Química,3.0,7.0,7.0,12.0
+Maria Torres,92362995.0,Lengua y Literatura,4.0,8.0,4.0,16.0
+Maria Sanchez,18573458.0,Ciencias Sociales,3.0,4.0,3.0,8.0
